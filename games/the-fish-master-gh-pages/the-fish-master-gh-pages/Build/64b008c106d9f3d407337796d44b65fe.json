@@ -1,0 +1,16 @@
+{
+"companyName": "Feenu",
+"productName": "The Fish Master",
+"dataUrl": "4fdd44f25468b42bbe051aab50a342b5.unityweb",
+"wasmCodeUrl": "bd972bf58d1fc386551303dd94c4fb95.unityweb",
+"wasmFrameworkUrl": "bc1110239961491ef2c2ee96cbd78623.unityweb",
+"asmCodeUrl": "833739bb84e15d19df06c553f0be7bbd.unityweb",
+"asmMemoryUrl": "ec195f6e0c8fed1c42d76bba86f89eec.unityweb",
+"asmFrameworkUrl": "df481f74495775d322751e94a088c594.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
