@@ -1,0 +1,10 @@
+{
+"TOTAL_MEMORY": 536870912,
+"dataUrl": "Bicycle Game.data.unityweb",
+"asmCodeUrl": "Bicycle Game.asm.code.unityweb",
+"asmMemoryUrl": "Bicycle Game.asm.memory.unityweb",
+"asmFrameworkUrl": "Bicycle Game.asm.framework.unityweb",
+"backgroundUrl": "Bicycle Game.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF"
+}
